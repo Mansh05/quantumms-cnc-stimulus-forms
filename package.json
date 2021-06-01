@@ -1,7 +1,7 @@
 {
-  "name": "@quantumms/vue-forms",
-  "version": "1.1.0",
-  "description": "Form controls and builder for vue js",
+  "name": "@quantumms/cnc-stimulus-forms",
+  "version": "0.1.0",
+  "description": "Form controls and builder for stimulus js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/Mansh05/quantumms-vue-forms#readme",
   "dependencies": {
-    "rxjs": "^6.6.3"
+    "rxjs": "^6.6.3",
+    "stimulus": "^2.0.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.11.5",
