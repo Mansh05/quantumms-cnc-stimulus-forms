@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Form controls and builder for stimulus js",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "./node_modules/.bin/rollup -c",
@@ -13,7 +14,6 @@
     "url": "git+ssh://git@github.com/Mansh05/quantumms-vue-forms.git"
   },
   "author": "Manish Sharma",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mansh05/quantumms-vue-forms/issues"
   },
